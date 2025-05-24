@@ -1,5 +1,4 @@
 # S Rocks Music Assignment
-
 ## Architecture Overview
 
 This project follows the **MVVM (Model-View-ViewModel)** architectural pattern to ensure clean separation of concerns, maintainability, and testability. The architecture leverages Flutter's `Provider` package for state management and `Equatable` for value equality comparisons.
@@ -12,6 +11,7 @@ This project follows the **MVVM (Model-View-ViewModel)** architectural pattern t
 - **Scalability**: Easy to add new features without affecting existing code
 
 ## Folder Structure
+```
 lib/
 ├── main.dart                   # App entry point with Provider setup
 ├── main_page.dart              # Main navigation container
@@ -43,7 +43,7 @@ lib/
 └── widgets/                    # Shared UI components
 ├── home_icon.dart
 └── svg_icon.dart
-
+```
 
 ## MVVM Implementation Details
 

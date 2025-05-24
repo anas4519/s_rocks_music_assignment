@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1094524672045",
+    "project_id": "rocks-music-assignment",
+    "storage_bucket": "rocks-music-assignment.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094524672045:android:7aba159d226653477240a4",
+        "android_client_info": {
+          "package_name": "com.example.s_rocks_music_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7YqhgbqwhNZcrm9QU5V7mSiZLauJBn60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

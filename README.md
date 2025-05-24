@@ -75,3 +75,14 @@ lib/
 4. **Data Layer**: Services interact with Firebase/external APIs
 5. **State Update**: ViewModel notifies listeners of state changes
 6. **UI Rebuild**: Consumer widgets automatically rebuild with new data
+
+## Key Dependencies
+
+- `provider: ^6.1.5` - State management and dependency injection
+- `equatable: ^2.0.7` - Value equality comparisons
+- `cloud_firestore` - Firebase Firestore integration
+- `firebase_core` - Firebase initialization
+- `google_fonts` - Custom typography
+
+## Demo Video
+📺 [Watch Demo Video](https://drive.google.com/file/d/16Mju4vBKez8HVZ6JLrykInx_JBqoz9tP/view?usp=drivesdk)
